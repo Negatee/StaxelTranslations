@@ -5,11 +5,11 @@ staxel.village.dialogue.job.BarkeepRumour.line:10000700=Dediklerine göre eski �
 //[Reference] 'At night you'll hear all sorts of strange sounds...'
 staxel.village.dialogue.job.BarkeepRumour.line:10000800=Gece vakti oradan çeşitli tuhaf sesler geliyormuş...
 //[Reference] 'Nah, I'm just messing with you!'
-staxel.village.dialogue.job.BarkeepRumour.line:10000900=Aslında yanlızca seni oynatıyordum!
+staxel.village.dialogue.job.BarkeepRumour.line:10000900=Aslında yalnızca oynatıyordum seni!
 //[Reference] 'I've heard tell that there are fairies in the woodlands around here.'
 staxel.village.dialogue.job.BarkeepRumour.line:10001000=Ormanlık arazide periler olduğunu söylüyorlar.
 //[Reference] 'Not sure how reliable those stories are though...'
-staxel.village.dialogue.job.BarkeepRumour.line:10001100=Fakat hikayeletin gerçekliği bilinmez...
+staxel.village.dialogue.job.BarkeepRumour.line:10001100=Fakat hikayelerin gerçekliği bilinmez...
 //[Reference] 'No one seems to have seen any...'
 staxel.village.dialogue.job.BarkeepRumour.line:10001200=Şimdiye kadar kimse görmemiş...
 //[Reference] 'The old farmer used to tell tales of growing giant crops.'
@@ -21,7 +21,7 @@ staxel.village.dialogue.job.BarkeepRumour.line:10001500=^c:1486b0;Farm Fan^c:pop
 //[Reference] 'She can be a bit... overbearing at times.'
 staxel.village.dialogue.job.BarkeepRumour.line:10001600=Bazen biraz abartıya kaçabiliyor.
 //[Reference] 'I don't doubt she'll have plenty of useful tips for you though!'
-staxel.village.dialogue.job.BarkeepRumour.line:10001700=Sana yararlı bilgiler vereceğinden şüpheliyim!
+staxel.village.dialogue.job.BarkeepRumour.line:10001700=Şüphesiz ki sana bir çok yararlı bilgi verecek!
 //[Reference] 'No, I'm afraid I don't know her real name either.'
 staxel.village.dialogue.job.BarkeepRumour.line:10001800=Üzgünüm bende onun gerçek adını bilmiyorum.
 //[Reference] 'Our sap is the best you'll find anywhere in the region!'
